@@ -1,0 +1,8 @@
+.login-image{
+  display: flex;
+  align-items: center;
+}
+
+.login-image img {
+  width: 256px;
+}
